@@ -114,7 +114,7 @@ print(f"ROI: {total_winnings/cum_spending[-1]:.4f}")
 ```
 #### Current Limitations
 
-Currently the code relies on manual hardcoded lottery input via Terminal and uses the same lottery number for all draws. (Customizations are possible - see the [Customization](#-customization) section below). I am planning on implementing a mix of user input enhancements and real-time data feeds soon. Want to help in the meantime? See the Contributions section below
+Currently the code relies on manual hardcoded lottery input via Terminal and uses the same lottery number for all draws. (Customizations are possible - see the [Customization](#-customization) section below). I am planning on implementing a mix of user input enhancements and real-time data feeds soon. Want to help in the meantime? See the [Contributions] (#-contributing) section below
 
 ### Prize Structure
 
