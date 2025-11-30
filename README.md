@@ -140,9 +140,7 @@ Shows how your return on investment changes as you play more (spoiler: it gets w
 
 <div align="center">
 
-```
-📉 Expected ROI: ~0.50-0.70 (you lose 30-50% of your money)
-```
+![ROI Analysis](images/Lottery_Simulator_ROI.png)
 
 </div>
 
