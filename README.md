@@ -112,6 +112,9 @@ print(f"Spent: ${cum_spending[-1]:,}")
 print(f"Won: ${total_winnings:,}")
 print(f"ROI: {total_winnings/cum_spending[-1]:.4f}")
 ```
+#### Current Limitations
+
+Currently the code relies on manual hardcoded lottery input via Terminal and uses the same lottery number for all draws. (Customizations are possible - see the [Customization](#-Customization) section below). I am planning on implementing a mix of user input enhancements and real-time data feeds soon. Want to help in the meantime? See the Contributions section below
 
 ### Prize Structure
 
@@ -251,7 +254,6 @@ The modular structure makes it easy to add new plots and analyses!
 - 🎮 **Fun**: See how unlucky (or lucky!) you can get
 
 ---
-
 ## 🤝 Contributing
 
 Contributions are welcome! Here are some ideas:
