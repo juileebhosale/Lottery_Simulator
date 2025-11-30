@@ -163,30 +163,6 @@ Side-by-side comparison of:
 - Different draw counts
 - ROI convergence over time
 
----
-
-## 📈 Results
-
-### Sample Results (1 Million Draws)
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Draws        Spent           Winnings        ROI
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1,000        $2,000          $980            0.4900
-10,000       $20,000         $10,234         0.5117
-100,000      $200,000        $104,567        0.5228
-1,000,000    $2,000,000      $1,048,932      0.5245
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-### Key Insights
-
-- 📉 **Expected ROI**: ~0.50-0.70 (varies by simulation)
-- 💸 **Expected Loss**: 30-50% of money spent
-- 🎯 **Win Rate**: ~4-5% of tickets win something
-- 🎰 **Jackpot Odds**: 1 in 292,201,338
-
 > **Note**: These are statistical expectations. Individual simulations may vary due to randomness!
 
 ---
